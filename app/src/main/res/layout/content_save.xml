@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".ContentSave"
+    tools:showIn="@layout/activity_content_save">
+    <EditText
+        android:id="@+id/ed_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_margin="@dimen/marginchildren"
+        android:hint="@string/hint1"
+        android:inputType="textPersonName"
+        />
+
+
+    <EditText
+
+        android:gravity="top"
+        android:id="@+id/ed_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/marginchildren"
+        android:ems="10"
+        android:hint="@string/hint2"
+        android:inputType="textMultiLine" />
+</LinearLayout>

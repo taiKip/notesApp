@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">magicNotes</string>
+    <string name="action_exit">exit</string>
+    <string name="action_cancel">cancel</string>
+    <string name="action_delete">delete</string>
+    <string name="title_activity_input_data">InputData</string>
+    <string name="hint1">Title</string>
+    <string name="hint2">Notes</string>
+    <string name="category">Category</string>
+    <string name="title_activity_content_save">ContentSave</string>
+    <string name="dialog">Are you sure you want to delete all the notes?</string>
+    <string name="notSaved">note not saved</string>
+    <string name="notUpdated">Could not update note</string>
+    <string name="cancel">Cancel</string>
+    <string name="cannotSave">cannot save empty note</string>
+    <string name="ok">ok</string>
+</resources>

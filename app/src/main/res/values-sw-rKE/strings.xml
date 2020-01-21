@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">magicNotes</string>
+    <string name="action_exit" translatable="false">ondoka</string>
+    <string name="action_cancel" translatable="false">sitisha</string>
+    <string name="action_delete" translatable="false">ondoa</string>
+    <string name="title_activity_input_data" translatable="false">andika</string>
+    <string name="hint1" translatable="false">Kichwa</string>
+    <string name="hint2" translatable="false">kiandiko</string>
+    <string name="category" translatable="false">kategoria</string>
+    <string name="title_activity_content_save" translatable="false">Hifadhi</string>
+    <string name="dialog" translatable="false">Hakikisha kama utataka kuondoa kikamilifu kiandiko hiki</string>
+    <string name="notSaved" translatable="false">kiandiko hakijahifadhiwa</string>
+    <string name="notUpdated" translatable="false">uhifadhi haujafaulu</string>
+    <string name="cancel" translatable="false">kata</string>
+    <string name="cannotSave" translatable="false">Uhifadhi wa kiandiko kisichokuwa na chochote hakiezekani</string>
+    <string name="ok" translatable="false">sawa</string>
+</resources>
